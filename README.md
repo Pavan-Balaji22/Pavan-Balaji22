@@ -1,9 +1,9 @@
 # 💫 About Me:
-🚀 Aspiring Machine Learning Engineer | Passionate about AI, data science, and model deployment.
-🔬 Exploring deep learning, MLOps, and cloud-based ML solutions.
-🛠️ Skilled in Python, TensorFlow/PyTorch, and data engineering.
-📈 Building projects on model optimization, automation, and scalable ML pipelines.
-🤝 Open to collaborations, learning, and contributing to open-source ML projects!
+🚀 Aspiring Machine Learning Engineer | Passionate about AI, data science, and model deployment.<br>
+🔬 Exploring deep learning, MLOps, and cloud-based ML solutions.<br>
+🛠️ Skilled in Python, TensorFlow/PyTorch, and data engineering.<br>
+📈 Building projects on model optimization, automation, and scalable ML pipelines.<br>
+🤝 Open to collaborations, learning, and contributing to open-source ML projects!<br>
 
 
 ## 🌐 Socials:
