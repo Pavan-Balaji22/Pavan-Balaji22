@@ -1,5 +1,9 @@
 # 💫 About Me:
-Hi I am Pavan Balaji Kumar. I am currently learning Deep learning, NLP and Computer vision all things related to AI.<br>I am interested in collaborating with like mind folks to work on challenging AI tasks.
+🚀 Aspiring Machine Learning Engineer | Passionate about AI, data science, and model deployment.
+🔬 Exploring deep learning, MLOps, and cloud-based ML solutions.
+🛠️ Skilled in Python, TensorFlow/PyTorch, and data engineering.
+📈 Building projects on model optimization, automation, and scalable ML pipelines.
+🤝 Open to collaborations, learning, and contributing to open-source ML projects!
 
 
 ## 🌐 Socials:
